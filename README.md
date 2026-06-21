@@ -2,3 +2,6 @@
 
 ## Structure
 - Week-01 → Assignment 1
+
+## Author
+Shivanjali Gangurde
